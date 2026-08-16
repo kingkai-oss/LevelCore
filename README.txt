@@ -4,7 +4,7 @@ A static HTML/CSS/JavaScript website ready for GitHub Pages or Cloudflare Pages.
 
 ## Before publishing
 1. Open `script.js`.
-2. Replace `YOUR_EMAIL@example.com` with your real business email.
+2. Replace `jamessalie712@gmail.com` with your real business email.
 3. Edit prices, games and wording in `index.html`.
 4. Replace the review placeholders only with genuine customer reviews.
 
