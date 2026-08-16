@@ -1,4 +1,4 @@
-# LevelUp Gaming Website
+# LevelCore Gaming Website
 
 A static HTML/CSS/JavaScript website ready for GitHub Pages or Cloudflare Pages.
 
